@@ -2,9 +2,17 @@
 
 [Link](https://hackaday.io/project/178243-lucidvr-budget-haptic-glove)
 
-### **Project Description :**
-### **Personal Notes/comments :**
+### **Project Description :** 
+
+This is a project to try to make VR Haptic Glove technology more available for the public. Currently, most VR Haptic Glove products out there are extremely expensive and are targeted for commercial use.
+
 ### **Improvements :**
+
+Use wireless communication to reduce weight on hand
+
+
+![5303061615752998096](https://user-images.githubusercontent.com/72989277/121801662-0ea6d380-cc56-11eb-90a0-759dcda529d2.png)
+
 
 # 2. Hearing Substitution Using Haptic Feedback
 
