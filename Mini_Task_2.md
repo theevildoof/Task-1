@@ -29,6 +29,7 @@
 ### Better Approach:
 
 Centering the system could help in reducing camera distortion
+
 Calibrating should reduce lens distortion
 
 
