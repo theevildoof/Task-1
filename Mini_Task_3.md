@@ -14,7 +14,7 @@ If NO ? the module which does not glow have been shorted and will not work anymo
 
 Found Some Module / IC to be hot ?
 
-Not so Great news !! You would have burnt it , Check out the Resources Section on where to buy a new one.
+Not so Great news !! You would have burnt it.
 
 Test the camera system individually to make sure it outputs data well
 
@@ -41,7 +41,7 @@ If NO ? the module which does not glow have been shorted and will not work anymo
 
 Found Some Module / IC to be hot ?
 
-Not so Great news !! You would have burnt it , Check out the Resources Section on where to buy a new one.
+Not so Great news !! You would have burnt it.
 
 Does the camera system work?
 
