@@ -59,6 +59,8 @@ Make sure to calibrate the camera system using fiducial markers
 
 Make sure the pool stick end is moving as expected
 
+Make sure the pressure by the power tank matches the expected pressure 
+
 
 
 
