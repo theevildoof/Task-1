@@ -162,6 +162,8 @@ The entire design is Open Source. The electronics are designed and laid out to b
 
 ### **Improvements :**
 
+None
+
 # 14. SatNOGS - Global Network of Ground Stations
 
 [Link](https://hackaday.io/project/1340-satnogs-global-network-of-ground-stations)
@@ -171,6 +173,8 @@ The entire design is Open Source. The electronics are designed and laid out to b
 SatNOGS project is a complete platform for an open source Satellite Ground Station Network. The scope of the project is to create a full stack of open technologies based on open standards , and the construction of a full ground station as a showcase of the stack.
 
 ### **Improvements :**
+
+None
 
 # 15. Pissbot 9000
 
