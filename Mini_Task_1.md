@@ -34,7 +34,7 @@ None.
 
 ### **Project Description :**
 
-This will serve as a platform to learn and study the unlimited potential of quadruped robots. And that's what this product is targeted for. We hope it will be the number one education platform for quadruped robotics globally.
+This will serve as a platform to learn and study the unlimited potential of quadruped robots. And that's what this product is targeted for. There's hope that it will be the number one education platform for quadruped robotics globally.
 
 ### **Improvements :**
 
@@ -86,7 +86,7 @@ Non-intrusive load monitoring (NILM) also known as energy disaggregation is cost
 
 ### **Project Description :**
 
-TopoTron is a simple volumetric display that uses adressable LEDs as WS2812 to create a tridimensional matrix. In this project I explore the posibilities and capabilities with a low resolution matrix to create not only topographies, also other beautiful effects. 
+TopoTron is a simple volumetric display that uses adressable LEDs as WS2812 to create a tridimensional matrix. In this project one can explore the posibilities and capabilities with a low resolution matrix to create not only topographies, also other beautiful effects. 
 
 ### **Improvements :**
 
